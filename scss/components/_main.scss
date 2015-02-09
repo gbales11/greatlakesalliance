@@ -17,12 +17,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+	@include zero;
+}
+
 /* Footer */
 
 footer {
-	background-color: #e6e6e6;
-	color: #808080;
-	font-family: "Montserrat", Arial, sans-serif;
+	background-color: $footer-bg;
+	color: $footer-primary;
+	font-family: $opensans;
 }
 
 .row {
@@ -35,14 +39,14 @@ footer {
 	-webkit-flex:1;
 	-ms-flex:1;
 	flex:1;
-	padding:0 2.5em 1em;
+	padding:0 2em 1em;
 }
 
 footer
 .topline,
 .grid {
 	padding-top:1.6em;
-	border-top:1px solid #ccc;
+	border-top:1px solid $footer-border;
 }
 
 .top-menu {
@@ -68,11 +72,12 @@ ul {
 }
 
 footer a {
-	color: #a6a6a6;
+	color: $footer-secondary;
 	text-decoration: none;
-	a:hover{
-		color: #6eb6c4;
+	&:hover{
+		color: $footer-hover;
 	}
+	@include ease(all, 10ms, ease-in-out);
 }
 
 li {
@@ -86,11 +91,17 @@ li {
 
 }
 
-.contact {
-	padding-bottom: 1em;
+.contact-info {
+	font-size: .70em;
+	text-transform: uppercase;
 }
 
-@media only screen and (max-width:767px){
+.contact {
+	padding-bottom: 2em;
+	padding-right: 0;
+}
+
+@media only screen and (max-width:600px){
 	.row {
 		padding-left:0;
 		padding-right:0;
