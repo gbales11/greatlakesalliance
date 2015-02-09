@@ -1,8 +1,13 @@
 // Mixins
 
-@mixin zero{
-  margin: 0;
-  padding: 0;
+@mixin zero {
+	margin: 0;
+	padding: 0;
+}
+
+@mixin padding {
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 @mixin ease($transition-property, $transition-time, $method) {

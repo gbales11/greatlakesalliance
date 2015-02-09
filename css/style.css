@@ -166,23 +166,23 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
-/* line 20, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 21, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 body {
   font-family: 'Lato', sans-serif;
   background-color: #FEFEFE;
   margin: 0;
   padding: 0; }
-  /* line 26, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 27, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   body.noscript .close-btn, body.noscript .toggle-btn {
     display: none; }
 
-/* line 31, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 32, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 header {
   padding: 0 1em;
   position: relative;
   background-color: #336666; }
 
-/* line 37, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 38, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 h1 {
   font-family: 'Lato', sans-serif;
   text-align: center;
@@ -197,14 +197,14 @@ h1 {
   text-transform: uppercase;
   border-bottom: 2px solid #003333; }
 
-/* line 52, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 53, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .toggle-btn {
   color: #336666;
   position: absolute;
   right: 1em;
   top: 0; }
 
-/* line 59, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 60, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .list-heading {
   font-family: 'Lato', sans-serif;
   font-weight: 500;
@@ -214,15 +214,15 @@ h1 {
   text-transform: uppercase;
   border-bottom: 2px solid #FEFEFE; }
 
-/* line 69, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 70, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .navigation ul {
   background-color: #336666;
   margin: 0;
   padding: 0; }
-  /* line 72, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 73, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .navigation ul li {
     list-style-type: none; }
-    /* line 74, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    /* line 75, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
     .navigation ul li a {
       font-family: 'Lato', sans-serif;
       font-weight: 300;
@@ -233,30 +233,30 @@ h1 {
       display: block;
       padding-top: 0.2em;
       text-align: center; }
-      /* line 84, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+      /* line 85, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
       .navigation ul li a:hover {
         color: #FEFEFE; }
 
-/* line 92, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 93, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .toggle-btn, .close-btn {
   height: 70px;
   width: 70px; }
-  /* line 95, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 96, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .toggle-btn span, .close-btn span {
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden;
     display: block; }
-  /* line 98, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 99, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .toggle-btn i, .close-btn i {
     padding: 0.5em; }
 
-/* line 103, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 104, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .close-btn {
   color: #336666;
   margin: 1em; }
 
-/* line 108, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 109, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .donate-btn {
   font-family: 'Lato', sans-serif;
   font-weight: 500;
@@ -270,11 +270,11 @@ h1 {
   margin: 2em;
   padding: 0.5em;
   border: 2px solid #FEFEFE; }
-  /* line 121, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 122, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .donate-btn:hover {
     opacity: 1; }
 
-/* line 126, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 127, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .contact-btn {
   font-family: 'Lato', sans-serif;
   font-weight: 500;
@@ -287,11 +287,11 @@ h1 {
   padding: 1em 1em;
   text-align: center;
   padding: 0.5em; }
-  /* line 138, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 139, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .contact-btn:hover {
     opacity: 1; }
 
-/* line 143, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+/* line 144, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
 .logo-btn {
   font-size: 3rem;
   font-weight: 500;
@@ -300,34 +300,34 @@ h1 {
   text-decoration: none;
   display: block;
   text-align: center; }
-  /* line 151, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 152, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .logo-btn:hover {
     opacity: 1; }
 
 @media only screen and (max-width: 60em) {
-  /* line 157, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 158, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .site-wrapper {
     position: relative;
     overflow: hidden;
     width: 100%;
     z-index: 100; }
-    /* line 162, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    /* line 163, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
     .site-wrapper .sliding-canvas {
       width: 100%;
       height: 100%;
       position: relative;
       transition: translateX(0);
       transition: all 300ms ease-in-out; }
-    /* line 170, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    /* line 171, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
     .site-wrapper[data-state="slide-open"] .sliding-canvas {
       -webkit-transform: translateX(-100%);
           -ms-transform: translateX(-100%);
               transform: translateX(-100%); }
-    /* line 174, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    /* line 175, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
     .site-wrapper[data-state="slide-open"] {
       overflow: visible; }
 
-  /* line 181, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 182, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .slide-menu {
     position: absolute;
     width: 100%;
@@ -338,84 +338,188 @@ h1 {
  }
 
 @media only screen and (min-width: 60em) {
-  /* line 194, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  /* line 195, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
   .toggle-btn, .close-btn {
     display: none; }
+ }
 
-  /* line 198, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  body.noscript .slide-menu {
-    position: static;
-    right: auto; }
+/* line 201, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+body.noscript .slide-menu {
+  position: static;
+  right: auto; }
 
-  /* line 203, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  ul li {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    letter-spacing: 3px;
-    color: #93A4A7;
-    text-transform: lowercase;
-    text-decoration: none;
-    text-align: center;
-    margin-top: 0.5em;
-    padding: 0.5em 2em;
-    text-align: center;
-    display: inline-block;
-    position: relative;
-    cursor: pointer;
-    transition: all 0.2s; }
-    /* line 218, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-    ul li:hover {
-      color: #FEFEFE; }
+/* line 206, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+ul li {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #93A4A7;
+  text-transform: lowercase;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0.5em;
+  padding: 0.5em 2em;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s; }
+  /* line 221, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  ul li:hover {
+    color: #FEFEFE; }
 
-  /* line 223, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  ul li ul {
-    padding: 0;
-    position: absolute;
-    top: 2.5em;
-    left: 0;
-    width: 200px;
-    display: none;
-    opacity: 0;
-    visibility: hidden;
-    -transition: opacity 0.2s; }
+/* line 226, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+ul li ul {
+  padding: 0;
+  position: absolute;
+  top: 2.5em;
+  left: 0;
+  width: 200px;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -transition: opacity 0.2s; }
 
-  /* line 235, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  ul li:hover ul {
-    margin-top: 1em;
-    display: block;
-    opacity: 1;
-    visibility: visible;
-    background: #336666; }
+/* line 238, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+ul li:hover ul {
+  margin-top: 1em;
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  background: #336666; }
 
-  /* line 243, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  .donate-btn {
-    display: inline-block;
-    font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    letter-spacing: 3px;
-    color: #FEFEFE;
-    opacity: 0.9;
-    text-transform: uppercase;
-    text-decoration: none;
-    padding: 0.7em 1.5em;
-    text-align: center;
-    border: 2px solid #FEFEFE; }
-    /* line 255, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-    .donate-btn:hover {
-      opacity: 1; }
+/* line 246, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.donate-btn {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.7em 1.5em;
+  text-align: center;
+  border: 2px solid #FEFEFE; }
+  /* line 258, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .donate-btn:hover {
+    opacity: 1; }
 
-  /* line 260, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-  .contact-btn {
-    display: inline-block;
-    font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    letter-spacing: 3px;
-    color: #FEFEFE;
-    opacity: 0.9;
-    text-transform: uppercase;
-    text-decoration: none;
-    text-align: center; }
-    /* line 270, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
-    .contact-btn:hover {
-      opacity: 1; }
+/* line 263, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.contact-btn {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center; }
+  /* line 273, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .contact-btn:hover {
+    opacity: 1; }
+
+/* line 279, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif; }
+
+/* line 284, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+h1 {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: -16px; }
+
+/* line 289, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+p {
+  padding-left: 1em;
+  padding-right: 1em; }
+
+/* Footer */
+/* line 294, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+footer {
+  background-color: #f9f9f9;
+  color: #333334;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 3em; }
+
+/* line 301, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.row {
+  padding-left: 0;
+  padding-right: 0;
+  display: block; }
+
+/* line 306, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.footer-grid {
+  padding-left: 1em;
+  padding-right: 1em; }
+
+/* line 311, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+footer .footer-grid {
+  padding-top: 1.6em;
+  border-top: 1px solid #c9c9c9; }
+
+/* line 316, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.top-menu {
+  text-transform: uppercase;
+  margin-bottom: 1.6em;
+  margin-left: 0; }
+
+/* line 323, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+footer ul li {
+  padding: 0.25 0;
+  text-transform: capitalize;
+  font-size: 15px; }
+
+/* line 329, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+/* line 335, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+footer a {
+  color: #a6a6a9;
+  text-decoration: none;
+  transition: all 10ms ease-in-out; }
+  /* line 338, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  footer a:hover {
+    color: #58aec4; }
+
+/* line 344, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+li {
+  line-height: 1.6em;
+  display: list-item;
+  text-align: -webkit-match-parent; }
+
+/* line 350, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.text-right {
+  text-align: right; }
+
+/* line 355, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.contact-info {
+  font-size: 0.7em;
+  text-transform: uppercase; }
+
+/* line 360, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.contact {
+  padding-bottom: 2em;
+  padding-right: 0; }
+
+@media only screen and (min-width: 600px) {
+  /* line 366, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .row {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 1440px; }
+
+  /* line 371, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .footer-grid {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 0 2.5em 1em; }
  }
