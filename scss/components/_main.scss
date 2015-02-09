@@ -42,7 +42,8 @@ h1{
   margin-left: auto;
   width: 300px;
   letter-spacing: 3px;
-  padding: .5em;
+  padding-top: .2em;
+  padding-bottom:.2em;
   color: $dark-green;
   text-transform: uppercase;
   border-bottom: 2px solid $dark-green;
@@ -78,7 +79,7 @@ h1{
       text-transform: lowercase;
       text-decoration: none;
       display: block;
-      padding-top: 1em;
+      padding-top: .2em;
       text-align: center;
       &:hover{
         color: $white;
