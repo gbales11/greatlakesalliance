@@ -32,19 +32,16 @@ footer {
 .row {
 	display:flex;
 	max-width:1440px;
-	padding:0 1.5em;
 }
 
 .footer-grid {
 	-webkit-flex:1;
 	-ms-flex:1;
 	flex:1;
-	padding:0 2em 1em;
+	padding:0 2.5em 1em;
 }
 
-footer
-.topline,
-.grid {
+footer .topline, .footer-grid {
 	padding-top:1.6em;
 	border-top:1px solid $footer-border;
 }
