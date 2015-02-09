@@ -16,3 +16,103 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+
+body {
+	@include zero;
+	font-family: $opensans;
+}
+
+h1 {
+	@include padding;
+	margin-left: -16px;
+}
+
+p{
+	@include padding;
+}
+/* Footer */
+
+footer {
+	background-color: $footer-bg;
+	color: $footer-primary;
+	font-family: $opensans;
+	margin-top: 3em;
+}
+
+.row {
+	padding-left:0;
+	padding-right:0;
+	display:block;
+}
+.footer-grid {
+	padding-left:1em;
+	padding-right:1em;
+}
+
+footer .footer-grid {
+	padding-top:1.6em;
+	border-top:1px solid $footer-border;
+}
+
+.top-menu {
+	text-transform: uppercase;
+	margin-bottom: 1.6em;
+	margin-left: 0;
+
+} 
+
+footer ul li{
+	padding: .25 0;
+	text-transform: capitalize;
+	font-size: 15px;
+}
+
+footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer a {
+	color: $footer-secondary;
+	text-decoration: none;
+	&:hover{
+		color: $footer-hover;
+	}
+	@include ease(all, 10ms, ease-in-out);
+}
+
+li {
+	line-height: 1.6em;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+.text-right {
+	text-align:right
+
+}
+
+.contact-info {
+	font-size: .70em;
+	text-transform: uppercase;
+}
+
+.contact {
+	padding-bottom: 2em;
+	padding-right: 0;
+}
+
+@media only screen and (min-width:600px){
+	.row {
+		display:flex;
+		max-width:1440px;
+	}
+
+	.footer-grid {
+		-webkit-flex:1;
+		-ms-flex:1;
+		flex:1;
+		padding:0 2.5em 1em;
+	}
+}
