@@ -19,14 +19,24 @@ html {
 
 body {
 	@include zero;
+	font-family: $opensans;
 }
 
+h1 {
+	@include padding;
+	margin-left: -16px;
+}
+
+p{
+	@include padding;
+}
 /* Footer */
 
 footer {
 	background-color: $footer-bg;
 	color: $footer-primary;
 	font-family: $opensans;
+	margin-top: 3em;
 }
 
 .row {
