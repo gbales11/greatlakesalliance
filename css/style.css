@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'push-menu-custom';
-  src: url('../font/push-menu-custom.eot?95902514');
-  src: url('../font/push-menu-custom.eot?95902514#iefix') format('embedded-opentype'), url('../font/push-menu-custom.woff?95902514') format('woff'), url('../font/push-menu-custom.ttf?95902514') format('truetype'), url('../font/push-menu-custom.svg?95902514#push-menu-custom') format('svg');
+  font-family: 'iconic-font';
+  src: url('../font/iconic-font.eot?5589718');
+  src: url('../font/iconic-font.eot?5589718#iefix') format('embedded-opentype'), url('../font/iconic-font.woff?5589718') format('woff'), url('../font/iconic-font.ttf?5589718') format('truetype'), url('../font/iconic-font.svg?5589718#iconic-font') format('svg');
   font-weight: normal;
   font-style: normal; }
 
@@ -10,14 +10,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'push-menu-custom';
-    src: url('../font/push-menu-custom.svg?95902514#push-menu-custom') format('svg');
+    font-family: 'iconic-font';
+    src: url('../font/iconic-font.svg?5589718#iconic-font') format('svg');
   }
 }
 */
-/* line 22, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/push-menu-custom */
-[class^="i-"]:before, [class*=" i-"]:before {
-  font-family: "push-menu-custom";
+/* line 22, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+[class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "iconic-font";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -40,16 +40,101 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
 
-/* line 53, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/push-menu-custom */
-.i-menu:before {
-  content: '\e800'; }
+/* line 53, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-arrow-down:before {
+  content: '\d'; }
 
-/* '' */
-/* line 54, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/push-menu-custom */
-.i-close:before {
+/* '' */
+/* line 54, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-comment:before {
+  content: '\ce'; }
+
+/* 'Î' */
+/* line 55, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-arrow-left:before {
+  content: '\ef'; }
+
+/* 'ï' */
+/* line 56, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-search:before {
   content: '\e801'; }
 
 /* '' */
+/* line 57, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-logo-small-frame:before {
+  content: '\e803'; }
+
+/* '' */
+/* line 58, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-logo-small-bw:before {
+  content: '\e804'; }
+
+/* '' */
+/* line 59, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-logo-long:before {
+  content: '\e805'; }
+
+/* '' */
+/* line 60, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-location-pin:before {
+  content: '\e806'; }
+
+/* '' */
+/* line 61, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-arrow-right:before {
+  content: '\e807'; }
+
+/* '' */
+/* line 62, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-arrow-up:before {
+  content: '\e808'; }
+
+/* '' */
+/* line 63, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-exit-circle:before {
+  content: '\e80a'; }
+
+/* '' */
+/* line 64, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-exit:before {
+  content: '\e80b'; }
+
+/* '' */
+/* line 65, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-headline:before {
+  content: '\e80c'; }
+
+/* '' */
+/* line 66, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-light:before {
+  content: '\e80d'; }
+
+/* '' */
+/* line 67, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-gears:before {
+  content: '\e80e'; }
+
+/* '' */
+/* line 68, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-phone:before {
+  content: '\e80f'; }
+
+/* '' */
+/* line 69, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-icon-5:before {
+  content: '\e810'; }
+
+/* '' */
+/* line 70, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-point:before {
+  content: '\e811'; }
+
+/* '' */
+/* line 71, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+.icon-target:before {
+  content: '\e812'; }
+
+/* '' */
 @-moz-viewport {
   width: device-width;
   scale: 1; }
@@ -80,4 +165,362 @@ html {
 /* line 16, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 *, *:before, *:after {
   box-sizing: inherit; }
+
+/* line 21, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #FEFEFE;
+  margin: 0;
+  padding: 0; }
+  /* line 27, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  body.noscript .close-btn, body.noscript .toggle-btn {
+    display: none; }
+
+/* line 32, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+header {
+  padding: 0 1em;
+  position: relative;
+  background-color: #336666; }
+
+/* line 38, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+h1 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-weight: 500;
+  margin-right: auto;
+  margin-left: auto;
+  width: 300px;
+  letter-spacing: 3px;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  color: #003333;
+  text-transform: uppercase;
+  border-bottom: 2px solid #003333; }
+
+/* line 53, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.toggle-btn {
+  color: #336666;
+  position: absolute;
+  right: 1em;
+  top: 0; }
+
+/* line 60, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.list-heading {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  padding: 0.5em;
+  color: #FEFEFE;
+  text-transform: uppercase;
+  border-bottom: 2px solid #FEFEFE; }
+
+/* line 70, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.navigation ul {
+  background-color: #336666;
+  margin: 0;
+  padding: 0; }
+  /* line 73, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .navigation ul li {
+    list-style-type: none; }
+    /* line 75, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+    .navigation ul li a {
+      font-family: 'Lato', sans-serif;
+      font-weight: 300;
+      letter-spacing: 3px;
+      color: #93A4A7;
+      text-transform: lowercase;
+      text-decoration: none;
+      display: block;
+      padding-top: 0.2em;
+      text-align: center; }
+      /* line 85, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+      .navigation ul li a:hover {
+        color: #FEFEFE; }
+
+/* line 93, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.toggle-btn, .close-btn {
+  height: 70px;
+  width: 70px; }
+  /* line 96, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .toggle-btn span, .close-btn span {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block; }
+  /* line 99, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .toggle-btn i, .close-btn i {
+    padding: 0.5em; }
+
+/* line 104, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.close-btn {
+  color: #336666;
+  margin: 1em; }
+
+/* line 109, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.donate-btn {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #FEFEFE; }
+  /* line 122, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .donate-btn:hover {
+    opacity: 1; }
+
+/* line 127, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.contact-btn {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: block;
+  padding: 1em 1em;
+  text-align: center;
+  padding: 0.5em; }
+  /* line 139, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .contact-btn:hover {
+    opacity: 1; }
+
+/* line 144, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.logo-btn {
+  font-size: 3rem;
+  font-weight: 500;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-decoration: none;
+  display: block;
+  text-align: center; }
+  /* line 152, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .logo-btn:hover {
+    opacity: 1; }
+
+@media only screen and (max-width: 60em) {
+  /* line 158, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .site-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    z-index: 100; }
+    /* line 163, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+    .site-wrapper .sliding-canvas {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transition: translateX(0);
+      transition: all 300ms ease-in-out; }
+    /* line 171, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+    .site-wrapper[data-state="slide-open"] .sliding-canvas {
+      -webkit-transform: translateX(-100%);
+          -ms-transform: translateX(-100%);
+              transform: translateX(-100%); }
+    /* line 175, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+    .site-wrapper[data-state="slide-open"] {
+      overflow: visible; }
+
+  /* line 182, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .slide-menu {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    right: -100%; }
+ }
+
+@media only screen and (min-width: 60em) {
+  /* line 195, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .toggle-btn, .close-btn {
+    display: none; }
+ }
+
+/* line 201, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+body.noscript .slide-menu {
+  position: static;
+  right: auto; }
+
+/* line 206, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+ul li {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  letter-spacing: 3px;
+  color: #93A4A7;
+  text-transform: lowercase;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 0.5em;
+  padding: 0.5em 2em;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s; }
+  /* line 221, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  ul li:hover {
+    color: #FEFEFE; }
+
+/* line 226, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+ul li ul {
+  padding: 0;
+  position: absolute;
+  top: 2.5em;
+  left: 0;
+  width: 200px;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -transition: opacity 0.2s; }
+
+/* line 238, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+ul li:hover ul {
+  margin-top: 1em;
+  display: block;
+  opacity: 1;
+  visibility: visible;
+  background: #336666; }
+
+/* line 246, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.donate-btn {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.7em 1.5em;
+  text-align: center;
+  border: 2px solid #FEFEFE; }
+  /* line 258, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .donate-btn:hover {
+    opacity: 1; }
+
+/* line 263, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.contact-btn {
+  display: inline-block;
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+  letter-spacing: 3px;
+  color: #FEFEFE;
+  opacity: 0.9;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center; }
+  /* line 273, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .contact-btn:hover {
+    opacity: 1; }
+
+/* line 279, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif; }
+
+/* line 284, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+h1 {
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: -16px; }
+
+/* line 289, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+p {
+  padding-left: 1em;
+  padding-right: 1em; }
+
+/* Footer */
+/* line 294, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+footer {
+  background-color: #f9f9f9;
+  color: #333334;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 3em; }
+
+/* line 301, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.row {
+  padding-left: 0;
+  padding-right: 0;
+  display: block; }
+
+/* line 306, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.footer-grid {
+  padding-left: 1em;
+  padding-right: 1em; }
+
+/* line 311, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+footer .footer-grid {
+  padding-top: 1.6em;
+  border-top: 1px solid #c9c9c9; }
+
+/* line 316, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.top-menu {
+  text-transform: uppercase;
+  margin-bottom: 1.6em;
+  margin-left: 0; }
+
+/* line 323, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+footer ul li {
+  padding: 0.25 0;
+  text-transform: capitalize;
+  font-size: 15px; }
+
+/* line 329, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+
+/* line 335, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+footer a {
+  color: #a6a6a9;
+  text-decoration: none;
+  transition: all 10ms ease-in-out; }
+  /* line 338, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  footer a:hover {
+    color: #58aec4; }
+
+/* line 344, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+li {
+  line-height: 1.6em;
+  display: list-item;
+  text-align: -webkit-match-parent; }
+
+/* line 350, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.text-right {
+  text-align: right; }
+
+/* line 355, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.contact-info {
+  font-size: 0.7em;
+  text-transform: uppercase; }
+
+/* line 360, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.contact {
+  padding-bottom: 2em;
+  padding-right: 0; }
+
+@media only screen and (min-width: 600px) {
+  /* line 366, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .row {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 1440px; }
+
+  /* line 371, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .footer-grid {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 0 2.5em 1em; }
+ }
 /*# sourceMappingURL=style.css.map */
