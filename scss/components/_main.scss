@@ -299,12 +299,20 @@ h2, h3 {
   text-align: center;
 }
 
-.round {
-  border-radius: 450px;
+.center-align {
+  text-align: center;
 }
 
 figcaption {
   margin-top: 2em;
+}
+
+.iconic{
+  font-size: 10em;
+  color: $dark-blue;
+  text-decoration: none;
+  display: block;
+  text-align: center;
 }
 
 /* Footer */
