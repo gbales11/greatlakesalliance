@@ -19,10 +19,9 @@ html {
 
 
 body{
-  font-family: $lato;
-  background-color: $white;
   @include zero;
-  // Hides close button if there is no js
+  font-family: $opensans;
+  background-color: $white;
   &.noscript .close-btn,
   &.noscript .toggle-btn{
     display: none;
@@ -36,18 +35,19 @@ header {
 }
 
 h1{
-  font-family: $lato;
   text-align: center;
-  font-weight: 500;
-  margin-right: auto;
-  margin-left: auto;
-  width: 300px;
-  letter-spacing: 3px;
-  padding-top: .2em;
-  padding-bottom:.2em;
+  padding-top: 2.5em;
   color: $dark-green;
   text-transform: uppercase;
-  border-bottom: 2px solid $dark-green;
+}
+
+.subtitle{
+  text-align: center;
+
+}
+
+.contain {
+  @include padding;
 }
 
 .toggle-btn{
@@ -275,20 +275,6 @@ ul li:hover ul {
    }   // hover
 }
 
-
-body {
-	@include zero;
-	font-family: $opensans;
-}
-
-h1 {
-	@include padding;
-	margin-left: -16px;
-}
-
-p{
-	@include padding;
-}
 /* Footer */
 
 footer {
