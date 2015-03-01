@@ -107,8 +107,15 @@ sub {
   text-align: right;
 }
 
-.text-center {
+.center-align {
   text-align: center;
+  max-width: 35em;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+.upper {
+  text-transform: uppercase;
 }
 
 .normal {

@@ -17,6 +17,15 @@
     transition: $transition-property $transition-time $method;
 }
 
+@mixin buttons($box-shadow, $hover, $bg-hover){
+  box-shadow: $box-shadow;
+  transition: all 150ms ease-in-out;
+  &:hover{
+    color: $hover;
+    background-color: $bg-hover;
+  }
+}
+
 // Hide text in an element
 @mixin hide-text {
   text-indent: 100%;

@@ -20,7 +20,7 @@ html {
 
 body{
   @include zero;
-  font-family: $opensans;
+  font-family: $lato;
   background-color: $white;
   &.noscript .close-btn,
   &.noscript .toggle-btn{
@@ -44,7 +44,7 @@ header {
 .header-image {
   background: url("../images/water.jpg") no-repeat center top;
   background-size: cover;
-  height: 400px;
+  height: 600px;
   margin-bottom: 2em;
 }
 
@@ -59,7 +59,6 @@ h1{
   text-align: center;
   color: $white;
   text-transform: uppercase;
-
 }
 
 .contain {
@@ -88,7 +87,7 @@ h1{
     a{
       font-weight: 300;
       letter-spacing: 3px;
-      color: $grey;
+      color: $white;
       text-transform: lowercase;
       text-decoration: none;
       display: block;
@@ -96,7 +95,7 @@ h1{
       padding-bottom: .5em;
       text-align: center;
       &:hover{
-        color: $white;
+        color: $grey;
       }   // hover
     }
   } // li
@@ -121,10 +120,7 @@ h1{
 
 .donate-btn{
   font-family: $lato;
-  font-weight: 500;
-  letter-spacing: 3px;
   color: $white;
-  opacity: .9;
   text-transform: uppercase;
   text-decoration: none;
   display: block;
@@ -139,7 +135,7 @@ h1{
 
 .contact-btn{
   font-size: .75em;
-  font-family: $opensans;
+  font-family: $lato;
   font-weight: 300;
   color: $white;
   opacity: .9;
@@ -154,17 +150,16 @@ h1{
    }   // hover
 }
 
-.logo-btn{
-  font-size: 3rem;
+.logo{
+  font-size: 2.5rem;
   font-weight: 500;
-  color: $white;
-  opacity: .9;
+  color: $light-blue;
   text-decoration: none;
   display: block;
   text-align: center;
    &:hover{
-      opacity: 1;
-   }   // hover
+      color: $white;
+   }
 }
 
 @media only screen and (max-width: 60em){
@@ -293,14 +288,14 @@ ul li:hover ul {
 }
 
 
+
+
 /* About */
 
-h2, h3 {
+h2, h3, h5 {
+  text-transform: uppercase;
   text-align: center;
-}
-
-.center-align {
-  text-align: center;
+  color: #333;
 }
 
 figcaption {
@@ -308,19 +303,39 @@ figcaption {
 }
 
 .iconic{
-  font-size: 10em;
-  color: $dark-blue;
+  font-size: 6em;
+  color: $light-blue;
   text-decoration: none;
   display: block;
   text-align: center;
 }
+
+.down{
+  font-size: .75em;
+  color: $white;
+}
+
+.buttons{
+  color: $light-blue;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: .5em;
+  text-align: center;
+@include buttons($thin-box-shadow, $white, $light-blue);
+}
+
+.donate h5{
+  color: $light-blue;
+}
+
 
 /* Footer */
 
 footer {
 	background-color: $footer-bg;
 	color: $footer-primary;
-	font-family: $opensans;
+	font-family: $lato;
 	margin-top: 3em;
 }
 
@@ -344,7 +359,7 @@ footer a {
 	color: $footer-secondary;
 	text-decoration: none;
 	&:hover{
-		color: $footer-hover;
+		color: $light-blue;
 	}
 	@include ease(all, 10ms, ease-in-out);
 }
