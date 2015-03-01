@@ -509,6 +509,21 @@ li {
     padding: 0 2.5em 1em; }
  }
 
+/* Issues Page */
+/* line 359, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.issue-image {
+  background: url("../images/greatlakes-44.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em; }
+
+/* line 366, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.programs-image {
+  background: url("../images/greatlakes-44.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em; }
+
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 html {
   font: normal 100%/1.5 Georgia, serif; }
