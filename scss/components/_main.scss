@@ -87,7 +87,6 @@ h1{
     list-style-type: none;
     a{
       font-weight: 300;
-      letter-spacing: 3px;
       color: $white;
       text-transform: lowercase;
       text-decoration: none;
@@ -191,10 +190,13 @@ h1{
     right: auto;
   }
 
+  .list-heading{
+  border-bottom: 0;
+  }
+
   ul li {
     font-family: $lato;
     font-weight: 300;
-    letter-spacing: 3px;
     color: $grey;
     text-transform: lowercase;
     text-decoration: none;
@@ -250,7 +252,8 @@ h2, h3, h5 {
 }
 
 figcaption {
-  margin-top: 2em;
+  margin-top: 3em;
+  margin-bottom: 3em;
 }
 
 .iconic{
