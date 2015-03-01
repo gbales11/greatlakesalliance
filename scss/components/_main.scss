@@ -44,7 +44,7 @@ header {
 .header-image {
   background: url("../images/water.jpg") no-repeat center top;
   background-size: cover;
-  height: 600px;
+  height: 650px;
   margin-bottom: 2em;
 }
 
@@ -128,26 +128,8 @@ h1{
   text-align: center;
   margin: 2em;
   padding: .5em;
-  border: 2px solid $white;
    &:hover{
-      opacity: 1;
-   }   // hover
-}
-
-.contact-btn{
-  font-size: .75em;
-  font-family: $lato;
-  font-weight: 300;
-  color: $white;
-  opacity: .9;
-  text-transform: uppercase;
-  text-decoration: none;
-  display: block;
-  padding: 1em 1em;
-  text-align: center;
-  padding: .5em;
-   &:hover{
-      opacity: 1;
+      color: $grey;
    }   // hover
 }
 
@@ -195,7 +177,6 @@ h1{
     top: 0;
     bottom: 0;
     right: -100%;
-    // min-height: 600px; to show that it can be scrolled
   }
 } // @media
 
@@ -203,10 +184,6 @@ h1{
   .toggle-btn,
   .close-btn{
     display: none;
-  }
-
-  .donate-btn {
-    float: right;
   }
 
   body.noscript .slide-menu{
@@ -254,37 +231,12 @@ h1{
   }
 
   .donate-btn{
+    float: right;
     display: inline-block;
-    font-family: $lato;
-    font-weight: 500;
-    letter-spacing: 3px;
-    color: $white;
-    opacity: .9;
-    text-transform: uppercase;
-    text-decoration: none;
-    padding: .7em 1.5em;
-    text-align: center;
-    border: 2px solid $white;
-     &:hover{
-        opacity: 1;
-     }   // hover
+    padding: .5em 1em;
+    @include buttons($donate-box-shadow, $dark-blue, $white);
   }
-
-  .contact-btn{
-    display: inline-block;
-    font-family: $lato;
-    font-weight: 500;
-    letter-spacing: 3px;
-    color: $white;
-    opacity: .9;
-    text-transform: uppercase;
-    text-decoration: none;
-    text-align: center;
-     &:hover{
-        opacity: 1;
-     }   // hover
-  }
-} // hover @media
+} // @media
 
 
 
@@ -322,7 +274,7 @@ figcaption {
   text-transform: uppercase;
   padding: .5em;
   text-align: center;
-@include buttons($thin-box-shadow, $white, $light-blue);
+  @include buttons($thin-box-shadow, $white, $light-blue);
 }
 
 .donate h5{
