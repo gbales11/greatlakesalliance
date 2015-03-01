@@ -313,6 +313,7 @@ figcaption {
 .down{
   font-size: .75em;
   color: $white;
+  transform: rotate(180deg);
 }
 
 .buttons{
