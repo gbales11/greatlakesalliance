@@ -247,8 +247,6 @@ h1{
 } // @media
 
 
-
-
 /* Body */
 
 h2, h3, h5 {
@@ -259,7 +257,8 @@ h2, h3, h5 {
 
 figcaption {
   margin-top: 3em;
-  margin-bottom: 1em;
+  margin-bottom: 3em;
+  text-align: center;
 }
 
 .iconic{
@@ -276,14 +275,21 @@ figcaption {
   transform: rotate(180deg);
 }
 
+.box{
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
 .buttons{
   color: $light-blue;
-  display: inline-block;
+  display: block;
   text-decoration: none;
   text-transform: uppercase;
   padding: .5em;
   margin-bottom: 3em;
+  width: 10em;
   text-align: center;
+  margin: 0 auto;
   @include buttons($thin-box-shadow, $white, $light-blue);
 }
 
