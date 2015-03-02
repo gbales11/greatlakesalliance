@@ -243,7 +243,7 @@ h1{
 
 
 
-/* About */
+/* Body */
 
 h2, h3, h5 {
   text-transform: uppercase;
@@ -276,6 +276,7 @@ figcaption {
   text-decoration: none;
   text-transform: uppercase;
   padding: .5em;
+  margin-bottom: 3em;
   text-align: center;
   @include buttons($thin-box-shadow, $white, $light-blue);
 }
@@ -357,14 +358,33 @@ li {
 /* Issues Page */
 
 .issue-image{
-  background: url("../images/greatlakes-44.jpg") no-repeat center top;
+  background: url("../images/greatlakes-7.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em;
 }
 
+.subtitle-work{
+  text-align: center;
+  color: $white;
+  @include padding;
+}
+
+@media only screen and (min-width: 60em){
+  .subtitle-work{
+  padding: 0 10em;
+  }
+}
+
+.round{
+  border-radius: 450px;
+  max-height: 10em;
+  max-width: 10em;
+  margin-bottom: 2.5em;
+}
+
 .programs-image{
-  background: url("../images/greatlakes-44.jpg") no-repeat center top;
+  background: url("../images/greatlakes-27.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em;
