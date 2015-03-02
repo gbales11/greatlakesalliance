@@ -50,11 +50,15 @@ header {
   margin-bottom: 2em;
 }
 
-h1{
+h1, h2 {
   text-align: center;
-  padding-top: 6em;
+  padding-top: 7em;
   color: $white;
   text-transform: uppercase;
+}
+
+.hide {
+  display: none;
 }
 
 .subtitle{
@@ -249,7 +253,7 @@ h1{
 
 /* Body */
 
-h2, h3, h5 {
+h3, h5 {
   text-transform: uppercase;
   text-align: center;
   color: #333;
