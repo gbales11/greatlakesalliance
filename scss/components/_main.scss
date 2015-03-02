@@ -417,7 +417,7 @@ form {
 
 form label {
   font-size:14px;
-  color: $dark-primary;
+  color: $dark-blue;
   cursor:pointer;
 }
 
@@ -447,7 +447,7 @@ form input {
 
 form input[type=text]:focus,
 form input[type="password"]:focus {
-  border-color: $green;
+  border-color: $dark-green;
 }
 
 input[type=submit] {
@@ -456,7 +456,7 @@ input[type=submit] {
   background:url("http://im51.gulfup.com/rkvDJI.jpg") center repeat #1abc9c;
   background-size:200px;
   border:none;
-  color: $light-primary;
+  color: $dark-green;
   cursor:pointer;
   display:inline-block;
   float:right;
@@ -482,13 +482,13 @@ input[type="submit"]:active {
   float:left;
   clear:left;
   display:inline-block;
-  color: $green;
+  color: $dark-green;
   text-decoration:none;
 }
 
 .forgot:hover,
 .register:hover {
-  color: $green;
+  color: $dark-green;
 }
 
 /*
@@ -513,6 +513,21 @@ input[type="submit"]:active {
 
 */
 
-a{ 
-  @include login-link($dark-blur, $light-blue);
+.login-link{ 
+  @include login-link($dark-blue, $light-blue);
 }
+
+.nav-jump-spacer{
+  position:absolute;
+  width: 10px;
+  height: 10px;
+  opacity:0;
+  top:-7.2em;
+}
+
+.about, .work, .news{
+  position:relative;
+}
+
+
+

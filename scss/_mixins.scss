@@ -40,8 +40,8 @@
   overflow: visible;
 }
 
-@mixin login-link($text-color, $hover-color)
-  {color: $text-color;
+@mixin login-link($text-color, $hover-color){
+  color: $text-color;
   text-decoration: none;
   margin:10px;
   float:left;
