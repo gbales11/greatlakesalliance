@@ -36,8 +36,10 @@ width: 100%;
 
 
 header {
-  padding: 0 1em;
-  position: relative;
+  position: fixed;
+  height: 5em;
+  width: 100%;
+  z-index: 100;
   background-color: $dark-blue;
 }
 
@@ -50,7 +52,7 @@ header {
 
 h1{
   text-align: center;
-  padding-top: 4.5em;
+  padding-top: 6em;
   color: $white;
   text-transform: uppercase;
 }
@@ -385,6 +387,13 @@ li {
 
 .programs-image{
   background: url("../images/greatlakes-27.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em;
+}
+
+.education-image{
+  background: url("../images/greatlakes-53.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em;
