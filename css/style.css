@@ -15,7 +15,11 @@
   }
 }
 */
+<<<<<<< HEAD
 /* line 22, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 22, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "iconic-font";
   font-style: normal;
@@ -40,97 +44,173 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
 
+<<<<<<< HEAD
 /* line 53, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 53, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-arrow-down:before {
   content: '\d'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 54, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 54, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-comment:before {
   content: '\ce'; }
 
 /* 'Î' */
+<<<<<<< HEAD
 /* line 55, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 55, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-arrow-left:before {
   content: '\ef'; }
 
 /* 'ï' */
+<<<<<<< HEAD
 /* line 56, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 56, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-search:before {
   content: '\e801'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 57, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 57, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-logo-small-frame:before {
   content: '\e803'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 58, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 58, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-logo-small-bw:before {
   content: '\e804'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 59, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 59, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-logo-long:before {
   content: '\e805'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 60, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 60, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-location-pin:before {
   content: '\e806'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 61, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 61, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-arrow-right:before {
   content: '\e807'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 62, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 62, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-arrow-up:before {
   content: '\e808'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 63, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 63, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-exit-circle:before {
   content: '\e80a'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 64, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 64, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-exit:before {
   content: '\e80b'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 65, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 65, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-headline:before {
   content: '\e80c'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 66, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 66, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-light:before {
   content: '\e80d'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 67, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 67, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-gears:before {
   content: '\e80e'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 68, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 68, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-phone:before {
   content: '\e80f'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 69, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 69, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-icon-5:before {
   content: '\e810'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 70, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 70, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-point:before {
   content: '\e811'; }
 
 /* '' */
+<<<<<<< HEAD
 /* line 71, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/iconic-font */
+=======
+/* line 71, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/iconic-font */
+>>>>>>> FETCH_HEAD
 .icon-target:before {
   content: '\e812'; }
 
@@ -155,34 +235,58 @@
   width: device-width;
   scale: 1; }
 
+<<<<<<< HEAD
 /* line 7, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 7, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 html {
   box-sizing: border-box;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%; }
 
+<<<<<<< HEAD
 /* line 16, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 *, *:before, *:after {
   box-sizing: inherit; }
 
 /* line 21, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 16, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+/* line 21, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 body {
   margin: 0;
   padding: 0;
   font-family: 'Lato', sans-serif;
   background-color: #FEFEFE; }
+<<<<<<< HEAD
   /* line 26, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   body.noscript .close-btn, body.noscript .toggle-btn {
     display: none; }
 
 /* line 31, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 26, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  body.noscript .close-btn, body.noscript .toggle-btn {
+    display: none; }
+
+/* line 31, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .flex-img {
   display: block;
   margin: 0 auto;
   width: 100%; }
 
+<<<<<<< HEAD
 /* line 38, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 38, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 header {
   position: fixed;
   height: 5em;
@@ -190,35 +294,59 @@ header {
   z-index: 100;
   background-color: #2d3e4f; }
 
+<<<<<<< HEAD
 /* line 46, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 46, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .header-image {
   background: url("../images/water.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em; }
 
+<<<<<<< HEAD
 /* line 53, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .hide {
   display: none; }
 
 /* line 57, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 53, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.hide {
+  display: none; }
+
+/* line 57, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .subtitle {
   text-align: center;
   color: #FEFEFE;
   text-transform: uppercase; }
 
+<<<<<<< HEAD
 /* line 63, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .contain {
   padding: 0 2.5em; }
 
 /* line 67, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 63, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.contain {
+  padding: 0 2.5em; }
+
+/* line 67, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .toggle-btn {
   color: #FEFEFE;
   position: absolute;
   right: 1em;
   top: 2em; }
 
+<<<<<<< HEAD
 /* line 74, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 74, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .list-heading {
   font-weight: 300;
   font-size: 0.75em;
@@ -227,11 +355,16 @@ header {
   border-bottom: 2px solid #FEFEFE;
   margin-top: 2em; }
 
+<<<<<<< HEAD
 /* line 83, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 83, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .navigation ul {
   background-color: #2d3e4f;
   margin: 0;
   padding: 0; }
+<<<<<<< HEAD
   /* line 86, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   .navigation ul li {
     list-style-type: none; }
@@ -239,11 +372,22 @@ header {
     .navigation ul li a {
       font-weight: 300;
       color: #FEFEFE;
+=======
+  /* line 86, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .navigation ul li {
+    list-style-type: none; }
+    /* line 88, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    .navigation ul li a {
+      font-weight: 300;
+      color: #FEFEFE;
+      text-transform: lowercase;
+>>>>>>> FETCH_HEAD
       text-decoration: none;
       display: block;
       padding-top: 0.2em;
       padding-bottom: 0.5em;
       text-align: center; }
+<<<<<<< HEAD
       /* line 96, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
       .navigation ul li a:hover {
         color: #93A4A7; }
@@ -253,21 +397,44 @@ header {
   height: 70px;
   width: 70px; }
   /* line 107, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+      /* line 97, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+      .navigation ul li a:hover {
+        color: #93A4A7; }
+
+/* line 105, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.toggle-btn, .close-btn {
+  height: 70px;
+  width: 70px; }
+  /* line 108, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .toggle-btn span, .close-btn span {
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden;
     display: block; }
+<<<<<<< HEAD
   /* line 110, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   .toggle-btn i, .close-btn i {
     padding: 0.5em; }
 
 /* line 115, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 111, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .toggle-btn i, .close-btn i {
+    padding: 0.5em; }
+
+/* line 116, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .close-btn {
   color: #2d3e4f;
   margin: 1em; }
 
+<<<<<<< HEAD
 /* line 120, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 121, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .donate-btn {
   font-family: 'Lato', sans-serif;
   color: #FEFEFE;
@@ -277,11 +444,19 @@ header {
   text-align: center;
   margin: 2em;
   padding: 0.5em; }
+<<<<<<< HEAD
   /* line 129, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   .donate-btn:hover {
     color: #93A4A7; }
 
 /* line 134, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 130, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .donate-btn:hover {
+    color: #93A4A7; }
+
+/* line 135, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .logo {
   font-size: 2.5rem;
   font-weight: 500;
@@ -289,34 +464,58 @@ header {
   text-decoration: none;
   display: block;
   text-align: center; }
+<<<<<<< HEAD
   /* line 141, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 142, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .logo:hover {
     color: #FEFEFE; }
 
 @media only screen and (max-width: 60em) {
+<<<<<<< HEAD
   /* line 147, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 148, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .site-wrapper {
     position: relative;
     overflow: hidden;
     width: 100%;
     z-index: 100; }
+<<<<<<< HEAD
     /* line 152, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+    /* line 153, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
     .site-wrapper .sliding-canvas {
       width: 100%;
       height: 100%;
       position: relative;
       transition: translateX(0);
       transition: all 300ms ease-in-out; }
+<<<<<<< HEAD
     /* line 160, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+    /* line 161, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
     .site-wrapper[data-state="slide-open"] .sliding-canvas {
       -webkit-transform: translateX(-100%);
           -ms-transform: translateX(-100%);
               transform: translateX(-100%); }
+<<<<<<< HEAD
     /* line 164, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
     .site-wrapper[data-state="slide-open"] {
       overflow: visible; }
 
   /* line 171, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+    /* line 165, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    .site-wrapper[data-state="slide-open"] {
+      overflow: visible; }
+
+  /* line 172, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .slide-menu {
     position: absolute;
     width: 100%;
@@ -327,21 +526,37 @@ header {
  }
 
 @media only screen and (min-width: 60em) {
+<<<<<<< HEAD
   /* line 183, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   .toggle-btn, .close-btn {
     display: none; }
 
   /* line 187, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 184, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  .toggle-btn, .close-btn {
+    display: none; }
+
+  /* line 188, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   body.noscript .slide-menu {
     position: static;
     right: auto; }
 
+<<<<<<< HEAD
   /* line 192, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 193, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .list-heading {
     border-bottom: 0;
     margin-top: 0; }
 
+<<<<<<< HEAD
   /* line 197, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 198, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   ul li {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
@@ -355,11 +570,19 @@ header {
     position: relative;
     cursor: pointer;
     transition: all 0.2s; }
+<<<<<<< HEAD
     /* line 210, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
     ul li:hover {
       color: #FEFEFE; }
 
   /* line 215, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+    /* line 211, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+    ul li:hover {
+      color: #FEFEFE; }
+
+  /* line 216, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   ul li ul {
     padding: 0;
     position: absolute;
@@ -371,7 +594,11 @@ header {
     visibility: hidden;
     -transition: opacity 0.2s; }
 
+<<<<<<< HEAD
   /* line 227, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 228, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   ul li:hover ul {
     display: block;
     opacity: 1;
@@ -380,7 +607,11 @@ header {
     background: #2d3e4f;
     text-align: left; }
 
+<<<<<<< HEAD
   /* line 236, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 237, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .donate-btn {
     float: right;
     display: inline-block;
@@ -388,24 +619,40 @@ header {
     margin-top: 1.7em;
     box-shadow: 0 0 0 1.5px #fefefe;
     transition: all 150ms ease-in-out; }
+<<<<<<< HEAD
     /* line 23, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/mixins */
+=======
+    /* line 23, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/mixins */
+>>>>>>> FETCH_HEAD
     .donate-btn:hover {
       color: #2d3e4f;
       background-color: #FEFEFE; }
  }
 
 /* Body */
+<<<<<<< HEAD
 /* line 248, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 h3, h5 {
   color: #333; }
 
 /* line 252, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 249, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+h3, h5 {
+  color: #333; }
+
+/* line 253, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 figcaption {
   margin-top: 3em;
   margin-bottom: 3em;
   text-align: center; }
 
+<<<<<<< HEAD
 /* line 258, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 259, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .iconic {
   font-size: 6em;
   color: #58aec4;
@@ -413,7 +660,11 @@ figcaption {
   display: block;
   text-align: center; }
 
+<<<<<<< HEAD
 /* line 266, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 267, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .down {
   font-size: 0.75em;
   color: #FEFEFE;
@@ -421,12 +672,20 @@ figcaption {
       -ms-transform: rotate(180deg);
           transform: rotate(180deg); }
 
+<<<<<<< HEAD
 /* line 272, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 273, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .box {
   margin-top: 3em;
   margin-bottom: 3em; }
 
+<<<<<<< HEAD
 /* line 277, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 278, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .buttons {
   color: #58aec4;
   display: block;
@@ -439,78 +698,134 @@ figcaption {
   margin: 0 auto;
   box-shadow: 0 0 0 1.5px #58aec4;
   transition: all 150ms ease-in-out; }
+<<<<<<< HEAD
   /* line 23, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/mixins */
+=======
+  /* line 23, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/mixins */
+>>>>>>> FETCH_HEAD
   .buttons:hover {
     color: #FEFEFE;
     background-color: #58aec4; }
 
+<<<<<<< HEAD
 /* line 290, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 291, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .donate h5 {
   color: #58aec4; }
 
 /* Footer */
+<<<<<<< HEAD
 /* line 297, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 298, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 footer {
   background-color: #f9f9f9;
   color: #333334;
   font-family: 'Lato', sans-serif;
   margin-top: 3em; }
 
+<<<<<<< HEAD
 /* line 304, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 305, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .row {
   padding-left: 0;
   padding-right: 0;
   display: block; }
 
+<<<<<<< HEAD
 /* line 309, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 310, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .footer-grid {
   padding-left: 1em;
   padding-right: 1em; }
 
+<<<<<<< HEAD
 /* line 314, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 315, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 footer .footer-grid {
   padding-top: 1.6em;
   padding-bottom: 1.6em;
   border-top: 1px solid #c9c9c9; }
 
+<<<<<<< HEAD
 /* line 320, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 321, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 footer a {
   color: #a6a6a9;
   text-decoration: none;
   transition: all 10ms ease-in-out; }
+<<<<<<< HEAD
   /* line 323, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   footer a:hover {
     color: #58aec4; }
 
 /* line 329, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 324, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+  footer a:hover {
+    color: #58aec4; }
+
+/* line 330, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 li {
   line-height: 1.6em;
   display: list-item;
   text-align: -webkit-match-parent; }
 
+<<<<<<< HEAD
 /* line 335, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .text-right {
   text-align: right; }
 
 /* line 340, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 336, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.text-right {
+  text-align: right; }
+
+/* line 341, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .contact-info {
   font-size: 0.7em;
   text-transform: uppercase; }
 
+<<<<<<< HEAD
 /* line 345, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 346, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .contact {
   padding-bottom: 2em;
   padding-right: 0; }
 
 @media only screen and (min-width: 600px) {
+<<<<<<< HEAD
   /* line 351, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 352, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .row {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
     max-width: 1440px; }
 
+<<<<<<< HEAD
   /* line 356, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 357, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .footer-grid {
     -webkit-flex: 1;
     -ms-flex: 1;
@@ -519,40 +834,64 @@ li {
  }
 
 /* Issues Page */
+<<<<<<< HEAD
 /* line 366, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 367, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .issue-image {
   background: url("../images/greatlakes-7.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em; }
 
+<<<<<<< HEAD
 /* line 373, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 374, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .subtitle-work {
   text-align: center;
   color: #FEFEFE;
   padding: 0 2.5em; }
 
 @media only screen and (min-width: 60em) {
+<<<<<<< HEAD
   /* line 380, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+  /* line 381, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
   .subtitle-work {
     padding: 0 10em; }
  }
 
+<<<<<<< HEAD
 /* line 385, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 386, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .round {
   border-radius: 450px;
   max-height: 10em;
   max-width: 10em;
   margin-bottom: 2.5em; }
 
+<<<<<<< HEAD
 /* line 392, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 393, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .programs-image {
   background: url("../images/greatlakes-27.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em; }
 
+<<<<<<< HEAD
 /* line 399, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 400, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .education-image {
   background: url("../images/greatlakes-53.jpg") no-repeat center top;
   background-size: cover;
@@ -560,7 +899,11 @@ li {
   margin-bottom: 2em; }
 
 /*------------------- Log in page */
+<<<<<<< HEAD
 /* line 409, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 410, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 form {
   margin: 0 auto;
   padding: 30px;
@@ -570,18 +913,30 @@ form {
   background: rgba(45, 62, 79, 0.9);
   border-radius: 10px; }
 
+<<<<<<< HEAD
 /* line 419, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 420, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 form label {
   font-size: 14px;
   color: #FEFEFE;
   cursor: pointer; }
 
+<<<<<<< HEAD
 /* line 426, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 427, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 form label, form input {
   float: left;
   clear: both; }
 
+<<<<<<< HEAD
 /* line 431, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 432, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 form input {
   margin: 15px 0;
   padding: 15px 10px;
@@ -593,11 +948,19 @@ form input {
   box-sizing: border-box;
   transition: 0.2s ease all; }
 
+<<<<<<< HEAD
 /* line 450, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 form input[type=text]:focus, form input[type="password"]:focus {
   border-color: #003333; }
 
 /* line 454, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 451, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+form input[type=text]:focus, form input[type="password"]:focus {
+  border-color: #003333; }
+
+/* line 455, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 input[type=submit] {
   padding: 15px 50px;
   width: auto;
@@ -611,6 +974,7 @@ input[type=submit] {
   clear: right;
   transition: 0.2s ease all; }
 
+<<<<<<< HEAD
 /* line 472, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 input[type=submit]:hover {
   opacity: 0.8; }
@@ -620,6 +984,17 @@ input[type="submit"]:active {
   opacity: 0.4; }
 
 /* line 481, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 473, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+input[type=submit]:hover {
+  opacity: 0.8; }
+
+/* line 477, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+input[type="submit"]:active {
+  opacity: 0.4; }
+
+/* line 482, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .forgot, .register {
   margin: 10px;
   float: left;
@@ -628,11 +1003,19 @@ input[type="submit"]:active {
   color: #FEFEFE;
   text-decoration: none; }
 
+<<<<<<< HEAD
 /* line 491, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .forgot:hover, .register:hover {
   color: #FEFEFE; }
 
 /* line 495, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 492, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.forgot:hover, .register:hover {
+  color: #FEFEFE; }
+
+/* line 496, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .login-link {
   color: #93A4A7;
   text-decoration: none;
@@ -640,12 +1023,20 @@ input[type="submit"]:active {
   float: left;
   clear: left;
   display: inline-block; }
+<<<<<<< HEAD
   /* line 50, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/mixins */
+=======
+  /* line 50, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/mixins */
+>>>>>>> FETCH_HEAD
   .login-link:hover {
     color: #58aec4; }
 
 /*---------------Login Page END-----*/
+<<<<<<< HEAD
 /* line 501, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 502, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .nav-jump-spacer {
   position: absolute;
   width: 10px;
@@ -653,6 +1044,7 @@ input[type="submit"]:active {
   opacity: 0;
   top: -7.2em; }
 
+<<<<<<< HEAD
 /* line 509, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .about, .work, .news {
   position: relative; }
@@ -666,119 +1058,215 @@ input[type="submit"]:active {
   padding-top: 9em; }
 
 /* line 519, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 510, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.about, .work, .news {
+  position: relative; }
+
+/* line 514, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.hide {
+  display: none; }
+
+/* line 516, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+.login {
+  padding-top: 9em; }
+
+/* line 520, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .login-image {
   background: url("../images/greatlakes-56.jpg");
   background-size: cover;
   height: 700px; }
 
+<<<<<<< HEAD
 /* line 525, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 526, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .inline {
   display: inline-block;
   width: 100%; }
 
+<<<<<<< HEAD
 /* line 531, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+=======
+/* line 532, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/main */
+>>>>>>> FETCH_HEAD
 .mission-image {
   background: url("../images/greatlakes-8.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em; }
 
+<<<<<<< HEAD
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 1, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 html {
   font: normal 100%/1.5 Georgia, serif; }
 
 @media only screen and (min-width: 60em) {
+<<<<<<< HEAD
   /* line 7, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+  /* line 7, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
   html {
     font-size: 110%; }
  }
 
 @media only screen and (min-width: 90em) {
+<<<<<<< HEAD
   /* line 15, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+  /* line 15, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
   html {
     font-size: 120%; }
  }
 
 @media only screen and (min-width: 120em) {
+<<<<<<< HEAD
   /* line 23, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+  /* line 23, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
   html {
     font-size: 130%; }
  }
 
+<<<<<<< HEAD
 /* line 29, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 29, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h1, h2, h3, h5 {
   text-transform: uppercase;
   text-align: center; }
 
+<<<<<<< HEAD
 /* line 37, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd, figure, blockquote, details, hr, fieldset, pre, table {
   margin: 0 0 1.5rem; }
 
 /* line 41, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 37, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd, figure, blockquote, details, hr, fieldset, pre, table {
+  margin: 0 0 1.5rem; }
+
+/* line 41, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .yotta {
   font-size: 2.2807rem;
   line-height: 1.3154;
   padding-top: 7em;
   color: #FEFEFE; }
 
+<<<<<<< HEAD
 /* line 48, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 48, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .yotta2 {
   font-size: 2.2807rem;
   line-height: 1.3154;
   color: #333; }
 
+<<<<<<< HEAD
 /* line 54, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 54, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .zetta {
   font-size: 2.0273rem;
   line-height: 1.4798; }
 
+<<<<<<< HEAD
 /* line 59, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 59, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h1, .exa {
   font-size: 1.802rem;
   line-height: 1.6648; }
 
+<<<<<<< HEAD
 /* line 64, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 64, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h2, .peta {
   font-size: 1.6018rem;
   line-height: 1.8729; }
 
+<<<<<<< HEAD
 /* line 69, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 69, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h3, .tera {
   font-size: 1.4238rem;
   line-height: 1.0535; }
 
+<<<<<<< HEAD
 /* line 74, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 74, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h4, .giga {
   font-size: 1.2656rem;
   line-height: 1.1852; }
 
+<<<<<<< HEAD
 /* line 79, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 79, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h5, .mega {
   font-size: 1.125rem;
   line-height: 1.3333; }
 
+<<<<<<< HEAD
 /* line 84, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 84, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 h6, .kilo {
   font-size: 1rem;
   line-height: 1.5; }
 
+<<<<<<< HEAD
 /* line 89, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 89, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 small, .milli {
   font-size: 0.8889rem;
   line-height: 1.6875; }
 
+<<<<<<< HEAD
 /* line 94, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 94, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .micro {
   font-size: 0.7901rem;
   line-height: 1.8984; }
 
+<<<<<<< HEAD
 /* line 100, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 100, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 sub, sup {
   font-size: 75%;
   line-height: 1px;
   position: relative;
   vertical-align: baseline; }
 
+<<<<<<< HEAD
 /* line 107, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 sup {
   top: -0.5em; }
@@ -796,12 +1284,32 @@ sub {
   text-align: right; }
 
 /* line 123, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 107, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+sup {
+  top: -0.5em; }
+
+/* line 111, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+sub {
+  bottom: -0.25em; }
+
+/* line 115, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.text-left {
+  text-align: left; }
+
+/* line 119, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.text-right {
+  text-align: right; }
+
+/* line 123, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .center-align {
   text-align: center;
   max-width: 35em;
   margin: 0 auto;
   padding-bottom: 2em; }
 
+<<<<<<< HEAD
 /* line 130, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 .upper {
   text-transform: uppercase; }
@@ -887,33 +1395,140 @@ sub {
   padding: 0.375rem; }
 
 /* line 214, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 130, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.upper {
+  text-transform: uppercase; }
+
+/* line 134, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.normal {
+  font-weight: normal; }
+
+/* line 138, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.bold {
+  font-weight: bold; }
+
+/* line 142, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.italic {
+  font-style: italic; }
+
+/* line 146, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.push {
+  margin-bottom: 1.5rem; }
+
+/* line 150, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.push-none, .push-0 {
+  margin-bottom: 0; }
+
+/* line 154, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.push-double, .push-2 {
+  margin-bottom: 3rem; }
+
+/* line 158, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.push-half, .push-1-2 {
+  margin-bottom: 0.75rem; }
+
+/* line 162, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.push-quarter, .push-1-4 {
+  margin-bottom: 0.375rem; }
+
+/* line 166, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-top, .pad-t {
+  padding-top: 1.5rem; }
+
+/* line 170, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-bottom, .pad-b {
+  padding-bottom: 1.5rem; }
+
+/* line 174, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-top-double, .pad-t-2 {
+  padding-top: 3rem; }
+
+/* line 178, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-bottom-double, .pad-b-2 {
+  padding-bottom: 3rem; }
+
+/* line 182, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-top-half, .pad-t-1-2 {
+  padding-top: 0.75rem; }
+
+/* line 186, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-bottom-half, .pad-b-1-2 {
+  padding-bottom: 0.75rem; }
+
+/* line 190, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-top-quarter, .pad-t-1-4 {
+  padding-top: 0.375rem; }
+
+/* line 194, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.pad-bottom-quarter, .pad-b-1-4 {
+  padding-bottom: 0.375rem; }
+
+/* line 198, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.island {
+  padding: 1.5rem; }
+
+/* line 202, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.island-double, .island-2 {
+  padding: 3rem; }
+
+/* line 206, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.island-half, .island-1-2 {
+  padding: 0.75rem; }
+
+/* line 210, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+.island-quarter, .island-1-4 {
+  padding: 0.375rem; }
+
+/* line 214, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .gutter {
   padding-left: 1.5rem;
   padding-right: 1.5rem; }
 
+<<<<<<< HEAD
 /* line 219, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 219, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .gutter-double, .gutter-2 {
   padding-left: 0.75rem;
   padding-right: 0.75rem; }
 
 @media only screen and (min-width: 30em) {
+<<<<<<< HEAD
   /* line 225, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+  /* line 225, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
   .gutter-double, .gutter-2 {
     padding-left: 3rem;
     padding-right: 3rem; }
  }
 
+<<<<<<< HEAD
 /* line 231, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 231, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .gutter-half, .gutter-1-2 {
   padding-left: 0.75rem;
   padding-right: 0.75rem; }
 
+<<<<<<< HEAD
 /* line 236, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
+=======
+/* line 236, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/type */
+>>>>>>> FETCH_HEAD
 .gutter-quarter, .gutter-1-4 {
   padding-left: 0.375rem;
   padding-right: 0.375rem; }
 
+<<<<<<< HEAD
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 1, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .grid {
   margin: 0;
   padding: 0;
@@ -928,32 +1543,52 @@ sub {
       -ms-flex-flow: row wrap;
           flex-flow: row wrap; }
 
+<<<<<<< HEAD
 /* line 14, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 14, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .grid-bottom {
   -webkit-align-items: flex-end;
   -ms-align-items: flex-end;
   -ms-flex-align: end;
       align-items: flex-end; }
 
+<<<<<<< HEAD
 /* line 20, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 20, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .grid-middle {
   -webkit-align-items: center;
   -ms-align-items: center;
   -ms-flex-align: center;
       align-items: center; }
 
+<<<<<<< HEAD
 /* line 26, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 26, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .grid-stretch {
   -webkit-align-items: stretch;
   -ms-align-items: stretch;
   -ms-flex-align: stretch;
       align-items: stretch; }
 
+<<<<<<< HEAD
 /* line 32, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
 .opera-only :-o-prefocus, .grid {
   word-spacing: -0.43em; }
 
 /* line 36, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 32, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.opera-only :-o-prefocus, .grid {
+  word-spacing: -0.43em; }
+
+/* line 36, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .unit {
   letter-spacing: normal;
   text-rendering: auto;
@@ -962,6 +1597,7 @@ sub {
   display: inline-block;
   visibility: visible; }
 
+<<<<<<< HEAD
 /* line 45, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
 .grid-bottom .unit {
   vertical-align: bottom; }
@@ -975,20 +1611,44 @@ sub {
   position: relative; }
 
 /* line 58, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 45, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.grid-bottom .unit {
+  vertical-align: bottom; }
+
+/* line 49, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.grid-middle .unit {
+  vertical-align: middle; }
+
+/* line 54, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit[class*="push-"], .unit[class*="pull-"] {
+  position: relative; }
+
+/* line 58, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .unit-xs-hidden {
   display: none;
   visibility: hidden; }
 
+<<<<<<< HEAD
 /* line 63, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
 .unit-xs-centered {
   margin: 0 auto; }
 
 /* line 67, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 63, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-xs-centered {
+  margin: 0 auto; }
+
+/* line 67, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .unit-xs-1, .xs-1 {
   display: block;
   visibility: visible;
   width: 100%; }
 
+<<<<<<< HEAD
 /* line 73, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
 .unit-offset-xs-0 {
   margin-left: 0; }
@@ -1046,26 +1706,98 @@ sub {
   left: -66.6667%; }
 
 /* line 130, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 73, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-offset-xs-0 {
+  margin-left: 0; }
+
+/* line 78, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-push-xs-0, .unit-pull-xs-0 {
+  left: 0; }
+
+/* line 82, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-xs-1-2, .xs-1-2 {
+  width: 50%; }
+
+/* line 86, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-offset-xs-1-2 {
+  margin-left: 50%; }
+
+/* line 90, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-push-xs-1-2 {
+  left: 50%; }
+
+/* line 94, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-pull-xs-1-2 {
+  left: -50%; }
+
+/* line 98, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-xs-1-3, .xs-1-3 {
+  width: 33.3333%; }
+
+/* line 102, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-offset-xs-1-3 {
+  margin-left: 33.3333%; }
+
+/* line 106, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-push-xs-1-3 {
+  left: 33.3333%; }
+
+/* line 110, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-pull-xs-1-3 {
+  left: -33.3333%; }
+
+/* line 114, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-xs-2-3, .xs-2-3 {
+  width: 66.6667%; }
+
+/* line 118, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-offset-xs-2-3 {
+  margin-left: 66.6667%; }
+
+/* line 122, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-push-xs-2-3 {
+  left: 66.6667%; }
+
+/* line 126, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+.unit-pull-xs-2-3 {
+  left: -66.6667%; }
+
+/* line 130, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .unit-xs-1-2, .xs-1-2, .unit-xs-1-3, .xs-1-3, .unit-xs-2-3, .xs-2-3 {
   display: inline-block;
   visibility: visible; }
 
 @media only screen and (min-width: 25em) {
+<<<<<<< HEAD
   /* line 137, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 137, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-s-hidden {
     display: none;
     visibility: hidden; }
 
+<<<<<<< HEAD
   /* line 142, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-s-centered {
     margin: 0 auto; }
 
   /* line 146, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 142, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-s-centered {
+    margin: 0 auto; }
+
+  /* line 146, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-s-1, .s-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
+<<<<<<< HEAD
   /* line 152, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-offset-s-0 {
     margin-left: 0; }
@@ -1123,27 +1855,99 @@ sub {
     left: -66.6667%; }
 
   /* line 209, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 152, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-s-0 {
+    margin-left: 0; }
+
+  /* line 157, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-s-0, .unit-pull-s-0 {
+    left: 0; }
+
+  /* line 161, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-s-1-2, .s-1-2 {
+    width: 50%; }
+
+  /* line 165, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-s-1-2 {
+    margin-left: 50%; }
+
+  /* line 169, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-s-1-2 {
+    left: 50%; }
+
+  /* line 173, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-s-1-2 {
+    left: -50%; }
+
+  /* line 177, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-s-1-3, .s-1-3 {
+    width: 33.3333%; }
+
+  /* line 181, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-s-1-3 {
+    margin-left: 33.3333%; }
+
+  /* line 185, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-s-1-3 {
+    left: 33.3333%; }
+
+  /* line 189, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-s-1-3 {
+    left: -33.3333%; }
+
+  /* line 193, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-s-2-3, .s-2-3 {
+    width: 66.6667%; }
+
+  /* line 197, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-s-2-3 {
+    margin-left: 66.6667%; }
+
+  /* line 201, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-s-2-3 {
+    left: 66.6667%; }
+
+  /* line 205, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-s-2-3 {
+    left: -66.6667%; }
+
+  /* line 209, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-s-1-2, .s-1-2, .unit-s-1-3, .s-1-3, .unit-s-2-3, .s-2-3 {
     display: inline-block;
     visibility: visible; }
  }
 
 @media only screen and (min-width: 38em) {
+<<<<<<< HEAD
   /* line 218, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 218, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-m-hidden {
     display: none;
     visibility: hidden; }
 
+<<<<<<< HEAD
   /* line 223, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-m-centered {
     margin: 0 auto; }
 
   /* line 227, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 223, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-m-centered {
+    margin: 0 auto; }
+
+  /* line 227, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-m-1, .m-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
+<<<<<<< HEAD
   /* line 233, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-offset-m-0 {
     margin-left: 0; }
@@ -1201,27 +2005,99 @@ sub {
     left: -66.6667%; }
 
   /* line 290, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 233, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-m-0 {
+    margin-left: 0; }
+
+  /* line 238, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-m-0, .unit-pull-m-0 {
+    left: 0; }
+
+  /* line 242, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-m-1-2, .m-1-2 {
+    width: 50%; }
+
+  /* line 246, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-m-1-2 {
+    margin-left: 50%; }
+
+  /* line 250, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-m-1-2 {
+    left: 50%; }
+
+  /* line 254, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-m-1-2 {
+    left: -50%; }
+
+  /* line 258, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-m-1-3, .m-1-3 {
+    width: 33.3333%; }
+
+  /* line 262, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-m-1-3 {
+    margin-left: 33.3333%; }
+
+  /* line 266, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-m-1-3 {
+    left: 33.3333%; }
+
+  /* line 270, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-m-1-3 {
+    left: -33.3333%; }
+
+  /* line 274, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-m-2-3, .m-2-3 {
+    width: 66.6667%; }
+
+  /* line 278, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-m-2-3 {
+    margin-left: 66.6667%; }
+
+  /* line 282, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-m-2-3 {
+    left: 66.6667%; }
+
+  /* line 286, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-m-2-3 {
+    left: -66.6667%; }
+
+  /* line 290, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-m-1-2, .m-1-2, .unit-m-1-3, .m-1-3, .unit-m-2-3, .m-2-3 {
     display: inline-block;
     visibility: visible; }
  }
 
 @media only screen and (min-width: 60em) {
+<<<<<<< HEAD
   /* line 299, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 299, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-l-hidden {
     display: none;
     visibility: hidden; }
 
+<<<<<<< HEAD
   /* line 304, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-l-centered {
     margin: 0 auto; }
 
   /* line 308, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 304, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-centered {
+    margin: 0 auto; }
+
+  /* line 308, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-l-1, .l-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
+<<<<<<< HEAD
   /* line 314, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
   .unit-offset-l-0 {
     margin-left: 0; }
@@ -1311,12 +2187,107 @@ sub {
     left: -75%; }
 
   /* line 403, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+  /* line 314, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-0 {
+    margin-left: 0; }
+
+  /* line 319, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-0, .unit-pull-l-0 {
+    left: 0; }
+
+  /* line 323, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-1-2, .l-1-2 {
+    width: 50%; }
+
+  /* line 327, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-1-2 {
+    margin-left: 50%; }
+
+  /* line 331, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-1-2 {
+    left: 50%; }
+
+  /* line 335, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-l-1-2 {
+    left: -50%; }
+
+  /* line 339, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-1-3, .l-1-3 {
+    width: 33.3333%; }
+
+  /* line 343, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-1-3 {
+    margin-left: 33.3333%; }
+
+  /* line 347, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-1-3 {
+    left: 33.3333%; }
+
+  /* line 351, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-l-1-3 {
+    left: -33.3333%; }
+
+  /* line 355, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-2-3, .l-2-3 {
+    width: 66.6667%; }
+
+  /* line 359, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-2-3 {
+    margin-left: 66.6667%; }
+
+  /* line 363, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-2-3 {
+    left: 66.6667%; }
+
+  /* line 367, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-l-2-3 {
+    left: -66.6667%; }
+
+  /* line 371, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-1-4, .l-1-4 {
+    width: 25%; }
+
+  /* line 375, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-1-4 {
+    margin-left: 25%; }
+
+  /* line 379, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-1-4 {
+    left: 25%; }
+
+  /* line 383, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-l-1-4 {
+    left: -25%; }
+
+  /* line 387, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-l-3-4, .l-3-4 {
+    width: 75%; }
+
+  /* line 391, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-offset-l-3-4 {
+    margin-left: 75%; }
+
+  /* line 395, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-push-l-3-4 {
+    left: 75%; }
+
+  /* line 399, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+  .unit-pull-l-3-4 {
+    left: -75%; }
+
+  /* line 403, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
   .unit-l-1-2, .l-1-2, .unit-l-1-3, .l-1-3, .unit-l-2-3, .l-2-3, .unit-l-1-4, .l-1-4, .unit-l-3-4, .l-3-4 {
     display: inline-block;
     visibility: visible; }
  }
 
+<<<<<<< HEAD
 /* line 410, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 410, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .unit-content-distribute {
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -1331,17 +2302,28 @@ sub {
   -webkit-align-items: center;
   align-items: center; }
 
+<<<<<<< HEAD
 /* line 425, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 425, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .content-fill {
   -ms-flex-grow: 2;
   -webkit-flex-grow: 2;
   -ms-flex-positive: 2;
       flex-grow: 2; }
 
+<<<<<<< HEAD
 /* line 431, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/grid */
+=======
+/* line 431, /Users/loganbrandwood/Desktop/GD3/S2/Web Development/greatlakesalliance/scss/components/grid */
+>>>>>>> FETCH_HEAD
 .content-shrink {
   -ms-align-self: center;
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center; }
+<<<<<<< HEAD
 /*# sourceMappingURL=style.css.map */
+=======
+>>>>>>> FETCH_HEAD
