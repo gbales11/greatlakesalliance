@@ -403,21 +403,115 @@ li {
   margin-bottom: 2em;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*------------------- Log in page */
 
 form {
-  margin:10% auto 0 auto;
+  margin:0 auto;
   padding:30px;
   width:400px;
   height:auto;
   overflow:hidden;
-  background:white;
+  background: rgba(45, 62, 79, .9);
   border-radius:10px;
 }
 
 form label {
   font-size:14px;
-  color: $dark-blue;
+  color: $white;
   cursor:pointer;
 }
 
@@ -453,10 +547,10 @@ form input[type="password"]:focus {
 input[type=submit] {
   padding:15px 50px;
   width:auto;
-  background:url("http://im51.gulfup.com/rkvDJI.jpg") center repeat #1abc9c;
+  background:url("http://im51.gulfup.com/rkvDJI.jpg") center repeat $green;
   background-size:200px;
   border:none;
-  color: $dark-green;
+  color: $white;
   cursor:pointer;
   display:inline-block;
   float:right;
@@ -482,40 +576,20 @@ input[type="submit"]:active {
   float:left;
   clear:left;
   display:inline-block;
-  color: $dark-green;
+  color: $white;
   text-decoration:none;
 }
 
 .forgot:hover,
 .register:hover {
-  color: $dark-green;
+  color: $white;
 }
-
-/*
-.logo {
-  margin:0 auto;
-  width:200px;
-  font-family:'Lily Script One', cursive;
-  font-size:60px;
-  font-weight:bold;
-  text-align:center;
-  color: $green;
-  -webkit-transition:0.2s ease all;
-     -moz-transition:0.2s ease all;
-      -ms-transition:0.2s ease all;
-       -o-transition:0.2s ease all;
-          transition:0.2s ease all;
-}
-
-.logo:hover {
-  color: $green;
-}
-
-*/
 
 .login-link{ 
-  @include login-link($dark-blue, $light-blue);
+  @include login-link($grey, $light-blue);
 }
+
+/*---------------Login Page END-----*/
 
 .nav-jump-spacer{
   position:absolute;
@@ -528,6 +602,68 @@ input[type="submit"]:active {
 .about, .work, .news{
   position:relative;
 }
+
+.hide{display: none;}
+
+.login{
+  padding-top: 9em;
+}
+
+.login-image{
+  background: url("../images/greatlakes-56.jpg");
+  background-size: cover;
+  height: 700px
+
+}
+
+.inline{
+  display: inline-block;
+  width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
