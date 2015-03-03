@@ -50,11 +50,8 @@ header {
   margin-bottom: 2em;
 }
 
-h1{
-  text-align: center;
-  padding-top: 6em;
-  color: $white;
-  text-transform: uppercase;
+.hide {
+  display: none;
 }
 
 .subtitle{
@@ -247,19 +244,16 @@ h1{
 } // @media
 
 
-
-
 /* Body */
 
-h2, h3, h5 {
-  text-transform: uppercase;
-  text-align: center;
+h3, h5 {
   color: #333;
 }
 
 figcaption {
   margin-top: 3em;
   margin-bottom: 3em;
+  text-align: center;
 }
 
 .iconic{
@@ -276,14 +270,21 @@ figcaption {
   transform: rotate(180deg);
 }
 
+.box{
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
 .buttons{
   color: $light-blue;
-  display: inline-block;
+  display: block;
   text-decoration: none;
   text-transform: uppercase;
   padding: .5em;
   margin-bottom: 3em;
+  width: 10em;
   text-align: center;
+  margin: 0 auto;
   @include buttons($thin-box-shadow, $white, $light-blue);
 }
 
@@ -402,99 +403,6 @@ li {
   height: 650px;
   margin-bottom: 2em;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /*------------------- Log in page */
@@ -621,48 +529,9 @@ input[type="submit"]:active {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.mission-image{
+  background: url("../images/greatlakes-8.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em;
+}
