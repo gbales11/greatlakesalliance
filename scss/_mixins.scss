@@ -39,3 +39,14 @@
   white-space: normal;
   overflow: visible;
 }
+
+@mixin login-link($text-color, $hover-color){
+  color: $text-color;
+  text-decoration: none;
+  margin: 3px;
+  float:left;
+  clear:left;
+  display:inline-block;
+    &:hover{
+      color: $hover-color;
+}   }
