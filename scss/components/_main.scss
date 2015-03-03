@@ -50,13 +50,6 @@ header {
   margin-bottom: 2em;
 }
 
-h1, h2 {
-  text-align: center;
-  padding-top: 7em;
-  color: $white;
-  text-transform: uppercase;
-}
-
 .hide {
   display: none;
 }
@@ -254,8 +247,6 @@ h1, h2 {
 /* Body */
 
 h3, h5 {
-  text-transform: uppercase;
-  text-align: center;
   color: #333;
 }
 
@@ -408,6 +399,13 @@ li {
 
 .education-image{
   background: url("../images/greatlakes-53.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em;
+}
+
+.mission-image{
+  background: url("../images/greatlakes-8.jpg") no-repeat center top;
   background-size: cover;
   height: 650px;
   margin-bottom: 2em;

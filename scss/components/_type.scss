@@ -26,6 +26,11 @@ html {
 
 }
 
+h1, h2, h3, h5{
+  text-transform: uppercase;
+  text-align: center;
+}
+
 h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
 blockquote, details, hr,
@@ -36,6 +41,8 @@ fieldset, pre, table {
 .yotta {
   font-size: 2.2807rem;
   line-height: 1.3154;
+  padding-top: 7em;
+  color: $white;
 }
 
 .zetta {
