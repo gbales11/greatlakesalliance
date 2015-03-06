@@ -753,7 +753,8 @@ article {
 .kit {
   border: 6px solid #c9c9c9;
   padding: 2em;
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  background-color: #f6f6f6; }
 
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 html {
