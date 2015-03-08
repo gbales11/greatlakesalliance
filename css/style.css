@@ -705,7 +705,7 @@ input[type="submit"]:active {
 /* line 559, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 ul.list li {
   display: list-item;
-  list-style-type: circle;
+  list-style-type: disc;
   text-align: left;
   color: #333;
   font-weight: normal;
