@@ -605,6 +605,15 @@ ul.list li{
   @include ease(all, 10ms, ease-in-out);
 }
 
+.blue-link{
+  color: $light-blue;
+  text-decoration: none;
+  &:hover{
+    color: $grey;
+  }
+  @include ease(all, 10ms, ease-in-out);
+}
+
 ul.social-buttons { 
   list-style: none; 
   margin: 5rem; 
