@@ -872,6 +872,14 @@ article {
   margin-bottom: 2em;
   background-color: #f6f6f6; }
 
+/* Donate Page */
+/* line 712, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.donate-image {
+  background: url("../images/greatlakes-52.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em; }
+
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 html {
   font: normal 100%/1.5 Georgia, serif; }
