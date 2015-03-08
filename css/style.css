@@ -394,7 +394,7 @@ header {
 
 /* Body */
 /* line 246, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
-h3, h5 {
+h2, h3, h5 {
   color: #333; }
 
 /* line 250, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
@@ -701,27 +701,57 @@ input[type="submit"]:active {
   height: 650px;
   margin-bottom: 2em; }
 
-/* About Section */
+/* Work Section */
 /* line 559, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+ul.list li {
+  display: list-item;
+  list-style-type: circle;
+  text-align: left;
+  color: #333;
+  font-weight: normal;
+  cursor: default; }
+
+/* line 568, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.contain-2 {
+  padding: 0 10%;
+  margin: 3em 0; }
+
+/* line 573, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.color-contain {
+  background-color: #EFEFEF;
+  padding: 3em 10%; }
+
+@media (min-width: 50em) {
+  /* line 579, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .contain-2 {
+    padding: 0 20%; }
+
+  /* line 582, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  .color-contain {
+    padding: 3em 20%; }
+ }
+
+/* About Section */
+/* line 589, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .about-section {
   background-color: #EFEFEF;
   color: #333;
   margin-top: -2em;
   padding: 5em 2.5em; }
 
-/* line 566, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 596, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .linkit a {
   color: #2d3e4f;
   text-decoration: none;
   border-bottom: 2px solid #2d3e4f;
   font-weight: bolder;
   transition: all 10ms ease-in-out; }
-  /* line 571, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  /* line 601, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   .linkit a:hover {
     color: #58aec4;
     border-bottom: 3px solid #58aec4; }
 
-/* line 578, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 608, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 ul.social-buttons {
   list-style: none;
   margin: 5rem;
@@ -729,12 +759,12 @@ ul.social-buttons {
   text-align: center;
   margin: 0 auto; }
 
-/* line 586, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 616, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 ul.social-buttons li {
   display: inline-block;
   margin-right: 10px; }
 
-/* line 592, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 622, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .social-btn {
   box-shadow: 0 0 0 1.5px #58aec4;
   transition: all 150ms ease-in-out;
@@ -750,26 +780,26 @@ ul.social-buttons li {
     color: #FEFEFE;
     background-color: #58aec4; }
 
-/* line 603, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 633, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .follow {
   margin-top: 3em;
   color: #a6a6a9;
   text-transform: uppercase; }
 
-/* line 609, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 639, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .offices {
   margin-bottom: 3em; }
 
-/* line 613, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 643, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .offices h6 {
   color: #58aec4; }
 
-/* line 617, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 647, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .staff h6 {
   color: #58aec4;
   margin-top: 4em; }
 
-/* line 622, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 652, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .underline {
   display: block;
   width: 3em;
@@ -780,14 +810,14 @@ ul.social-buttons li {
   margin-bottom: 3em; }
 
 /* News Page*/
-/* line 634, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 664, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .wrap {
   height: 100vh;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex; }
 
-/* line 638, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 668, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 main {
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -796,13 +826,13 @@ main {
   display: -ms-flexbox;
   display: flex; }
 
-/* line 642, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 672, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 aside, article {
   overflow-y: scroll;
   padding: 2em;
   margin-top: 5em; }
 
-/* line 647, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 677, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 aside {
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -810,7 +840,7 @@ aside {
   background: url("../images/greatlakes-56.jpg") no-repeat center top;
   background-size: cover; }
 
-/* line 652, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 682, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 article {
   -webkit-flex: 2;
       -ms-flex: 2;
@@ -818,7 +848,7 @@ article {
   background-color: #FEFEFE; }
 
 @media (max-width: 50em) {
-  /* line 657, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  /* line 687, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   main {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
@@ -826,7 +856,7 @@ article {
  }
 
 /* Education section*/
-/* line 664, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 694, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .kit {
   border: 6px solid #c9c9c9;
   padding: 2em;
