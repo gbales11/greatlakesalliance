@@ -556,6 +556,25 @@ input[type="submit"]:active {
 
 /* About Section */
 
+.about-section{
+  background-color: #EFEFEF;
+  color: #333;
+  margin-top: -3em;
+  padding: 5em 2.5em;
+}
+
+.linkit a {
+  color: $dark-blue;
+  text-decoration: none;
+  border-bottom: 2px solid $dark-blue;
+  font-weight: bolder;
+  &:hover{
+    color: $light-blue;
+    border-bottom: 3px solid $light-blue;
+  }
+  @include ease(all, 10ms, ease-in-out);
+}
+
 ul.social-buttons { 
   list-style: none; 
   margin: 5rem; 
@@ -595,10 +614,15 @@ ul.social-buttons li {
   color: $light-blue;
 }
 
+.staff h6{
+  color: $light-blue;
+  margin-top: 4em;
+}
+
 .underline {
 display: block;
-width: 45px;
-height: 4px;
+width: 3em;
+height: .20em;
 background: #333;
 margin: 0 auto;
 margin-top: -15px;
