@@ -820,13 +820,17 @@ ul.social-buttons li {
 
 /* News Page*/
 /* line 673, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+.green {
+  color: #336666; }
+
+/* line 677, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .wrap {
   height: 100vh;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex; }
 
-/* line 677, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 681, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 main {
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -835,13 +839,13 @@ main {
   display: -ms-flexbox;
   display: flex; }
 
-/* line 681, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 685, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 aside, article {
   overflow-y: scroll;
   padding: 2em;
   margin-top: 5em; }
 
-/* line 686, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 690, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 aside {
   -webkit-flex: 1;
       -ms-flex: 1;
@@ -849,7 +853,7 @@ aside {
   background: url("../images/greatlakes-56.jpg") no-repeat center top;
   background-size: cover; }
 
-/* line 691, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 695, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 article {
   -webkit-flex: 2;
       -ms-flex: 2;
@@ -857,7 +861,7 @@ article {
   background-color: #FEFEFE; }
 
 @media (max-width: 50em) {
-  /* line 696, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+  /* line 700, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
   main {
     -webkit-flex-direction: column;
         -ms-flex-direction: column;
@@ -865,7 +869,7 @@ article {
  }
 
 /* Education section*/
-/* line 703, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 707, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .kit {
   border: 6px solid #c9c9c9;
   padding: 2em;
@@ -873,7 +877,7 @@ article {
   background-color: #f6f6f6; }
 
 /* Donate Page */
-/* line 712, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+/* line 716, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .donate-image {
   background: url("../images/greatlakes-52.jpg") no-repeat center top;
   background-size: cover;
