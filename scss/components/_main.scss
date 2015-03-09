@@ -676,13 +676,17 @@ margin-bottom: 3em;
 
 .entry1 {
   background-color: #EFEFEF;
-  margin-top: 3em;
-  padding: 3em 20%;
+  padding: 3em 10%;
 }
 
 .entry2 {
-  margin-top: 3em;
+  padding: 3em 10%;
+}
+
+@media (min-width: 50em) {
+  .entry1, .entry2{
   padding: 3em 20%;
+  }
 }
 
 .wrap {
