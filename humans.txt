@@ -1,0 +1,32 @@
+# humanstxt.org
+
+# Team
+
+Project Lead: Giulia Balestra
+Designer: Tara Boland
+Designer: Emma McInall
+Designer: Ivy LaBossiere
+Developer: Logan Brandwood
+Develope: Samantha Nickerson
+Locations Ottawa, Canada
+&nbsp;
+
+---
+
+# THANKS
+
+To all the awesome people who helped with the website.
+
+Public domain images from: 
+Unsplash: https://unsplash.com 
+Picjumbo: http://picjumbo.com
+DeathtoStock: http://deathtothestockphoto.com
+
+---
+
+# TECHNOLOGY
+
+Last updated: 2015/03/09
+Standards: HTML5, CSS3, SCSS, JS
+Components: Jquery, Jekyll
+Software: Sublime

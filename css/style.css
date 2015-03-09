@@ -906,6 +906,17 @@ article {
   height: 650px;
   margin-bottom: 2em; }
 
+/* Donate form */
+/* simple check box for donation options: http://codepen.io/moyses/pen/IhoDw*/
+/* line 748, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
+input[type=checkbox] {
+  position: relative;
+  right: -10px;
+  width: auto;
+  z-index: 1;
+  opacity: 0;
+  cursor: pointer; }
+
 /* line 1, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/type */
 html {
   font: normal 100%/1.5 Georgia, serif; }
