@@ -811,11 +811,11 @@ ul.social-buttons li {
 /* line 661, /Users/sam/Documents/Graphic Design/3rd Year/Semester 6/Web Dev. V/greatlakesalliance/scss/components/main */
 .underline {
   display: block;
-  width: 3em;
-  height: 0.2em;
-  background: #333;
+  width: 5em;
+  height: 0.18em;
+  background: #58aec4;
   margin: 0 auto;
-  margin-top: -15px;
+  margin-top: -10px;
   margin-bottom: 3em; }
 
 /* News Page*/
