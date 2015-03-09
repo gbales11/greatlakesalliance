@@ -670,6 +670,13 @@ margin-bottom: 3em;
 
 /* News Page*/
 
+.events-image{
+  background: url("../images/greatlakes-40.jpg") no-repeat center top;
+  background-size: cover;
+  height: 650px;
+  margin-bottom: 2em;
+}
+
 .green {
   color: $green;
 }
