@@ -674,6 +674,17 @@ margin-bottom: 3em;
   color: $green;
 }
 
+.entry1 {
+  background-color: #EFEFEF;
+  margin-top: 3em;
+  padding: 3em 20%;
+}
+
+.entry2 {
+  margin-top: 3em;
+  padding: 3em 20%;
+}
+
 .wrap {
   height: 100vh;
   display: flex;
@@ -684,13 +695,13 @@ main {
 }
 aside, article {
   overflow-y: scroll;
-  padding: 2em;
   margin-top: 5em;
 }
 aside {
   flex: 1;
   background: url("../images/greatlakes-56.jpg") no-repeat center top;
   background-size: cover;
+  padding: 2em;
 }
 article {
   flex: 2;
