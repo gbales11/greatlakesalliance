@@ -5,9 +5,9 @@ layout: default
 <div class="donate-image">
 	<h1 class="yotta">Donate</h1>
 	<p class="subtitle-work">Join us in protecting the Great Lakes by making a donation to the Alliance.</p>
-	<a class="icon-arrow-up iconic down" href="#"></a>
+	<a class="icon-arrow-up iconic down" href="#contain-2"></a>
 </div>
-<div class="contain-2">
+<div id="contain-2" class="contain-2">
 	<h5>Donate Your Time</h5>
 	<span class="underline"></span>
 	<p>Everyone can make a distinct contribution toward ensuring a healthy future for our Great Lakes. Through responsible decision making, community involvement and partnerships, the Alliance advances its ecological mission. See how you can do your part!</p>
@@ -30,7 +30,40 @@ layout: default
 	<h5>Donate</h5>
 	<span class="underline"></span>
 	<p>Your support will help protect these lakes and preserve their legacy of clean water.</p>
-	<p>ADD DONATE FORM HERE</p>
+	
+		
+		<form method="post" action="">
+		<h1 class="hide">Great Lakes Alliance Donate form</h1>
+
+		<h2>Donation form</h2>
+
+		<label for="name">Name</label>
+		<input type="text" id="name" name="name" placeholder="First + Last Name" autocomplete="off" required />
+
+		<label for="email">Email</label>
+		<input type="email" id="email" name="email" placeholder="ex: hello@hotmail.com..." autocomplete="off" required />
+
+		<label for="amount">Donation Amount</label>
+		<input type="amount" id="amount" name="amount" placeholder="ex: 50.00" autocomplete="off" required />
+			  
+
+  			<input type="checkbox" id="checkbox" checked>
+  			<label for="checkbox">One Time Donation</label>
+
+  			<input type="checkbox" id="checkbox" checked>
+  			<label for="checkbox">Monthly (Reoccuring) Donation</label>
+
+		<input type="submit" name="submit" value="Donate" />
+
+	</form>	
+
+
+
+
+
+
+
+	
 	<p>If you prefer to mail your donation, please download this form and send it to our office. We'll keep you up-to-date about Great Lakes events and volunteer opportunities in your area.</p>
 	<a class="buttons micro" href="{{site.baseurl}}/donate.html">Download</a>
 </div>
